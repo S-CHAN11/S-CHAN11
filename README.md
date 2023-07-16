@@ -1,3 +1,4 @@
 - Hi there! Welcome to my Github profile!👋 
 I am Chandru and I'm passionate about Data Science and Analytics. I have done my graduation in Commerce and currently pursuing my Chartered Financial Analyst certification (giving my L-3). I've also completed my Post Graduation in Data Science and Business Analytics from McCombs Business School, University of Texas.
-I have over 12 years of work experience in the asset management industry
+I have over 12 years of work experience providing Consulting, Market Research, Strategy Planning & Business Execution, Project Optimization and Business Development services to global Asset Management companies. I've helped clients in their transition to Seismic, a content management repository and automate reports through SQL to quicken their time to market. I've built dashboards to track buyer engagement and content usage metrics to extract valuable isnights and modify their marketing strategy.
+In my spare time, I like to travel, ride my bike and listen to different genres of music. 
